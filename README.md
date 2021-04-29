@@ -6,13 +6,13 @@
       width="30px">, I'm Md. Tariqul Alam Khandaker (Tareq)</h1>
   <h3 align="center"> React Developer | Full Stack Developer | Machine Learning Enthusiast</h3>
   <p align="center">
-    <a href="https://www.linkedin.com/in/tariqul-khandaker/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/tariqul-khandaker/" target="_blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tariqul" height="30"
         width="40" /></a>
-    <a href="https://www.facebook.com/tareq.khandakar" target="blank"><img align="center"
+    <a href="https://www.facebook.com/tareq.khandakar" target="_blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tareq khandaker" height="30"
         width="40" /></a>
-    <a href="https://www.instagram.com/tareqkhandakar/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/tareqkhandakar/" target="_blank"><img align="center"
       src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg?raw=true" alt="tareq khandaker" height="30"
       width="40" /></a>
     <a href="mailto: ttareq91@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30"
@@ -73,11 +73,10 @@ Stuffs..._**
   <code> <img height="50"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg?raw=true"></code><code>
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg?raw=true"> </code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg?raw=true"></code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg?raw=true"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg?raw=true"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg?raw=true"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg?raw=true"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg?raw=true"> </code>
@@ -85,25 +84,13 @@ Stuffs..._**
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg?raw=true"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg?raw=true"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg?raw=true"> </code>
-    
-<code> <img height="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-        <code> <img height="50"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg?raw=true"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg?raw=true"> </code>
     
   <!-- <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg?raw=true
       "> </code> -->
 <hr>
-    <p align="center">
-      <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px"
-        alt="GitHub-Status" />&nbsp;<i><b>GitHub Stats</b></i><img
-        src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" /></p>
-    <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact"
-        alt="tareq khandaker" /></p>
-
-  <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=tareq0377&show_icons=true&locale=en"
-        alt="tareq khandaker" width="410" /></p>
-
+<p align="center"><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" />&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareq0377&show_icons=true&locale=en&layout=compact" alt="tareq khandaker" /></p>
+<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=tareq0377&show_icons=true&locale=en" alt="tareq khandaker" width="410" /></p>
 <hr>
